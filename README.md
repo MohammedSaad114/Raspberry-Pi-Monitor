@@ -106,6 +106,15 @@ The app will now auto-start at boot.
 
 ---
 
+## Resources / Links
+
+* **FastAPI docs:** https://fastapi.tiangolo.com/
+* **Uvicorn docs:** https://uvicorn.dev/#running-programmatically
+* **SMART FAQ:** https://www.smartmontools.org/wiki/FAQ
+* **Parsing SMART output:** https://stackoverflow.com/questions/22049136/python-how-to-parse-smartctl-program-output
+
+---
+
 ## License
 
 MIT
